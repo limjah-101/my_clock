@@ -1,1 +1,1 @@
-#Simple raw-build Digital clock
+#Simple vanilla made Digital clock
