@@ -1,1 +1,1 @@
-#Simple vanilla made Digital clock
+#Simple vanilla Js Digital clock
